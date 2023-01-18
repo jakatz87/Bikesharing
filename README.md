@@ -39,7 +39,7 @@ To track which bikes would be in need of service, I can use this visualization t
 ![Bike Use](https://github.com/jakatz87/bikesharing/blob/main/images/Bike%20Utilization.png)
 
 ## Summary
-With the free data provided by Citibike, I would suggest removing the category of gender since it seems to be redundant and shows no significant impact.  An interesting data point for gender would be the number of reported maintenance issues by user.  
+With the free data provided by Citibike, I would suggest removing the category of gender since it seems to be redundant and shows no significant impact.  If gender was still a data point of interest, perhaps the number of reported maintenance issues by user would possibly reveal something.  
 
 If a city is to replicate this type of service, focusing on its use for transportation to and from work may be best based on these results.  
 
