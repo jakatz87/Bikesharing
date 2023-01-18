@@ -41,6 +41,6 @@ To track which bikes would be in need of service, I can use this visualization t
 ## Summary
 With the free data provided by Citibike, I would suggest removing the category of gender since it seems to be redundant and shows no significant impact.  If gender was still a data point of interest, perhaps the number of reported maintenance issues by user would possibly reveal something.  
 
-If a city is to replicate this type of service, focusing on its use for transportation to and from work may be best based on these results.  
+If a city is to replicate this type of service, this analysis shows that focusing on its use for transportation to and from work may be best.  
 
 Further information for visualization should include maintenance costs per bike, overhead costs per month, city population data, and disaggregated data by neighborhood.  This information would help other cities or companies in their decisions to replicate this service.
