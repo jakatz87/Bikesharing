@@ -5,26 +5,26 @@
 Using publicly available data from New York's Citibike, I created a visualization that can be used for general information for any other city thinking of replicating the service.
 
 ## Results
+I was able to show that most bikes were used for rides that lasted between 4 and 12 minutes.
 
 ![Checkout Times for Users](https://github.com/jakatz87/bikesharing/blob/main/images/Checkout%20Times%20for%20Users.png)
 
-I was able to show that most bikes were used for rides that lasted between 4 and 12 minutes.
+This use of bike times was consistent by gender.
 
 ![Checkout Times by Gender](https://github.com/jakatz87/bikesharing/blob/main/images/Checkout%20Times%20by%20Gender.png)
 
-This use of bike times was consistent by gender.
+I found that the most popular time for bike usage was for morning and evening commutes for work, as well as weekend afternoons for leisure.
 
 ![Trips by Weekday per Hour](https://github.com/jakatz87/bikesharing/blob/main/images/Trips%20by%20Weekday%20per%20Hour.png)
 
-I found that the most popular time for bike usage was for morning and evening commutes for work, as well as weekend afternoons for leisure.
+Bike usage times were also consistent by gender.
 
 ![Trips by Gender](https://github.com/jakatz87/bikesharing/blob/main/images/Trips%20by%20Gender.png)
 
-Bike usage times were also consistent by gender.
+Weekdays, especially Thursday and Friday, showed the most popular days of usage, with a lull on Wednesday.  In terms of times for analysis, reflection, and maintenance, Wednesdays would be ideal.
 
 ![User Trips](https://github.com/jakatz87/bikesharing/blob/main/images/User%20Trips.png)
 
-Weekdays, especially Thursday and Friday, showed the most popular days of usage, with a lull on Wednesday.  In terms of times for analysis, reflection, and maintenance, Wednesdays would be ideal.
 
 With costs in mind, bike maintenance is worth investigating given this free data.
 
